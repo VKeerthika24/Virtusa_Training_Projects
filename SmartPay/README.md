@@ -23,7 +23,7 @@ How It Works
 
 Output Screenshot
 <h3>Generate Bill Output</h3>
-<img src="images/generate new bill.png" width="600"/>
+<img src="images/generate new bill.png" width="400"/>
 
 <h3>View Bills Output</h3>
-<img src="images/view bills.png" width="600"/>
+<img src="images/view bills.png" width="400"/>
