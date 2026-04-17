@@ -7,7 +7,7 @@ This repository contains multiple mini-projects developed as part of my training
 ### 1. E-Commerce Logistics
 
 * Focus: Shipment tracking and delivery performance
-* Tech: SQL / Database
+* Tech: SQL
 * 📎 [View Project](./E-Commerce-Logistics)
 
 ### 2. FareCalc Travel Optimizer
@@ -26,7 +26,7 @@ This repository contains multiple mini-projects developed as part of my training
 ### 4. Online Retail Sales Analysis
 
 * Focus: Sales insights and data analysis
-* Tech: SQL / Data Analysis
+* Tech: SQL
 * 📎 [View Project](./Online_Retail_Sales_Analysis)
 
 ### 5. SmartPay Utility Biller
