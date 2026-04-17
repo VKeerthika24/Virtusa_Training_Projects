@@ -1,6 +1,6 @@
 # Virtusa Training Projects
 
-This repository contains multiple mini-projects developed as part of training. Each project demonstrates different concepts in Java, Python, SQL, and Full Stack Development.
+This repository contains multiple mini-projects developed as part of my training. Each project demonstrates different concepts in Java, Python and SQL.
 
 ## Projects Overview
 
