@@ -58,3 +58,5 @@ This repository contains multiple mini-projects developed as part of my training
 ## Author
 
 Keerthika V
+BE CSE
+Email: vkkeerthika24@gmail.com
