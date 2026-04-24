@@ -47,8 +47,8 @@ def store_ride(record):
     try:
         with open("ride_log.json", "a") as file:
             file.write(json.dumps(record) + "\n")
-    except:
-        pass
+    except Exception as e:
+        print("Error occurred:", e)
 
 
 def display_bill(data, distance, vehicle, hour, city):
